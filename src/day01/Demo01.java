@@ -14,7 +14,7 @@ public class Demo01 {
         byte age ;
         long dataTime = 123728947932749l;
 
-        char gender = '男';
+        char gender = 'nv';
 
 
 
