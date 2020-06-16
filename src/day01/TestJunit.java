@@ -6,7 +6,7 @@ public class TestJunit {
 
     @Test
     public void sayHello(){
-        System.out.println("Hello");
+        System.out.println("Hello2") ;
     }
 
     @Test
